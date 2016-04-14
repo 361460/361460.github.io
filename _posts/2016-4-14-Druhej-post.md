@@ -1,5 +1,4 @@
-layout: post
-title:Post cislo dve
+
 
 
 Můj pocit pokaždé, když pracuju s GitHubem...
